@@ -1,0 +1,10 @@
+#diamond-logo {
+    width: 70px;
+    height: 50px;
+    border-radius: 15px;
+    margin-right: 7px;
+}
+
+.fa-instagram, .fa-twitter {
+    margin-left: 40px;
+}
